@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\bin\Debug\net5.0\tHREAD AND aSYNC.exe
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\bin\Debug\net5.0\tHREAD AND aSYNC.deps.json
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\bin\Debug\net5.0\tHREAD AND aSYNC.runtimeconfig.json
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\bin\Debug\net5.0\tHREAD AND aSYNC.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\bin\Debug\net5.0\tHREAD AND aSYNC.dll
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\bin\Debug\net5.0\ref\tHREAD AND aSYNC.dll
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\bin\Debug\net5.0\tHREAD AND aSYNC.pdb
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\obj\Debug\net5.0\tHREAD AND aSYNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\obj\Debug\net5.0\tHREAD AND aSYNC.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\obj\Debug\net5.0\tHREAD AND aSYNC.AssemblyInfo.cs
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\obj\Debug\net5.0\tHREAD AND aSYNC.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\obj\Debug\net5.0\tHREAD AND aSYNC.dll
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\obj\Debug\net5.0\ref\tHREAD AND aSYNC.dll
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\obj\Debug\net5.0\tHREAD AND aSYNC.pdb
+C:\Users\Asus\source\repos\tHREAD AND aSYNC\tHREAD AND aSYNC\obj\Debug\net5.0\tHREAD AND aSYNC.genruntimeconfig.cache
